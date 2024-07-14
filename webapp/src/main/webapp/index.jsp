@@ -12,7 +12,7 @@
 
     <button type="submit">Login</button>
     <label>
-      <input type="checkbox" checked="checked" name="remember"> First time editing and uploading Remember me
+      <input type="checkbox" checked="checked" name="remember"> Remember me
     </label>
   </div>
 
