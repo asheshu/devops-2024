@@ -12,7 +12,7 @@
 
     <button type="submit">Login</button>
     <label>
-      <input type="checkbox" checked="checked" name="remember"> Final push Remember me
+      <input type="checkbox" checked="checked" name="remember"> Personal Token Access Remember me
     </label>
   </div>
 
